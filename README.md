@@ -57,25 +57,31 @@ A modern, full-stack travel booking platform built with React, Node.js, and Mong
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page] 
+ 
 <img width="1901" height="895" alt="image" src="https://github.com/user-attachments/assets/9025a8b3-a0a2-488c-9d56-db50880df910" />
 
 
 ### Tour Details
-![Tour Details](frontend/src/assets/images/tour-img01.jpg)
+
+<img width="1899" height="897" alt="image" src="https://github.com/user-attachments/assets/26084875-4618-4a48-aa76-0e1064ddfe01" />
+
 
 ### Booking Flow
-![Booking](frontend/src/assets/images/login.png)
+
+<img width="1902" height="890" alt="image" src="https://github.com/user-attachments/assets/837cf39d-72ae-42a4-965b-92830b9ab864" />
+
 
 ### Admin Dashboard
-![Admin Panel](frontend/src/assets/images/dashboard.png)
+
+<img width="1898" height="892" alt="image" src="https://github.com/user-attachments/assets/1ae7319a-a09e-4204-8c21-be314a1eeac7" />
+
 
 ## 🛠️ Installation & Setup
 
 ### Prerequisites
 - Node.js (v16 or higher)
 - MongoDB
-- Git
+  
 
 ### Clone the Repository
 ```bash
@@ -166,23 +172,7 @@ travelling-and-tourism/
 - `POST /api/auth/login` - User login
 - `POST /api/auth/logout` - User logout
 
-### Tours
-- `GET /api/tours` - Get all tours
-- `GET /api/tours/:id` - Get single tour
-- `POST /api/tours` - Create tour (admin)
-- `PUT /api/tours/:id` - Update tour (admin)
-- `DELETE /api/tours/:id` - Delete tour (admin)
 
-### Bookings
-- `GET /api/bookings` - Get user bookings
-- `POST /api/bookings` - Create booking
-- `DELETE /api/bookings/:id` - Cancel booking
-
-### Reviews
-- `GET /api/reviews/:tourId` - Get tour reviews
-- `POST /api/reviews` - Create review
-- `PUT /api/reviews/:id` - Update review
-- `DELETE /api/reviews/:id` - Delete review
 
 ## 🎯 Usage
 
@@ -193,52 +183,13 @@ travelling-and-tourism/
 4. **Manage Bookings** - View and manage bookings in user dashboard
 5. **Leave Reviews** - Share your travel experiences
 
-### For Admins
-1. **Manage Tours** - Create, update, and delete tours
-2. **View Bookings** - Monitor all bookings and payments
-3. **User Management** - Manage user accounts and permissions
-4. **Analytics** - View booking statistics and trends
 
-## 🚀 Deployment
 
-### Frontend Deployment (Vercel)
-```bash
-cd frontend
-npm run build
-vercel --prod
-```
-
-### Backend Deployment (Render/Heroku)
-```bash
-cd backend
-git add .
-git commit -m "Deploy backend"
-git push heroku main
-```
-
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
-
-### Contribution Guidelines
-- Follow the existing code style
-- Add tests for new features
-- Update documentation as needed
-- Ensure all tests pass
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+.
 
 ## 👥 Team
 
-- **Your Name** - Initial work - [YourGitHub](https://github.com/yourusername)
+- **Your Name** - Initial work - [YourGitHub](https://github.com/kashiif373/Travelling_and_Tourism)
 
 ## 🙏 Acknowledgments
 
@@ -249,7 +200,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@travellingandtourism.com or join our Slack channel.
+For support, email kashif.mukhtar950@gmail.com .
 
 ---
 
