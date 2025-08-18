@@ -2,7 +2,7 @@
 
 A modern, full-stack travel booking platform built with React, Node.js, and MongoDB. Discover amazing destinations, book tours, and manage your travel experiences all in one place.
 
-![Project Banner](frontend/src/assets/images/banner-01.jpg)
+
 
 ## ✨ Features
 
@@ -57,7 +57,9 @@ A modern, full-stack travel booking platform built with React, Node.js, and Mong
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](frontend/src/assets/images/hero-img01.jpg)
+![Home Page] 
+<img width="1901" height="895" alt="image" src="https://github.com/user-attachments/assets/9025a8b3-a0a2-488c-9d56-db50880df910" />
+
 
 ### Tour Details
 ![Tour Details](frontend/src/assets/images/tour-img01.jpg)
